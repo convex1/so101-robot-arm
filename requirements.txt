@@ -1,0 +1,3 @@
+lerobot[feetech]   # brings scservo_sdk (Feetech servo SDK) and the calibration tools
+opencv-python
+mediapipe==0.10.21 # 1.0.x crashes on macOS ("Metal service unavailable") even with the CPU delegate

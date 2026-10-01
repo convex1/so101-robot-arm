@@ -1,0 +1,13 @@
+*.mp4
+*.jpg
+models/
+STOP
+__pycache__/
+.DS_Store
+# old teach-by-hand recordings made before the follower was recalibrated
+pick1.json
+push1.json
+push2.json
+push3.json
+push4.json
+push5.json
