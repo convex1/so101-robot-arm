@@ -3,6 +3,10 @@
 Small Python scripts for a Hugging Face **SO-101** 6-DoF arm (Feetech STS3215 servos), built on
 [LeRobot](https://github.com/huggingface/lerobot)'s calibration and the Feetech servo SDK.
 
+![SO-101 arm running dance.py](media/dance.gif)
+
+*`dance.py` on the follower arm ([full-quality MP4](media/dance.mp4)).*
+
 What's here:
 
 | Script | What it does |
